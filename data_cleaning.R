@@ -1,3 +1,5 @@
+# Copyright Pedro H. Braz Vallocci and Toshiya Yoshida
+
 library(openxlsx)
 library(ggplot2)
 library(nnet)
