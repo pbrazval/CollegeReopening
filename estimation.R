@@ -1,3 +1,4 @@
+# Copyright Pedro H. Braz Vallocci and Toshiya Yoshida
 rm(list=ls())
 
 library(mltools)
